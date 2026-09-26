@@ -96,7 +96,7 @@ if not st.session_state.mulai:
         </style>
 
         <div class="splash-bg">
-            <div class="splash-judul">PROGRAM PENGELOLAAN DOKUMEN</div>
+            <div class="splash-judul">APLIKASI PENGELOLAAN DOKUMEN</div>
             <div class="splash-sub">By : @Matera</div>
         </div>
     """, unsafe_allow_html=True)
